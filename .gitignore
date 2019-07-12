@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# asset files
+*.zip
+*.jpg
+processed_celeba_small/
+
 # Distribution / packaging
 .Python
 build/
